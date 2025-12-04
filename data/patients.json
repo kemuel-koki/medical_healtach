@@ -1,0 +1,18 @@
+[
+  {
+    "nom": "Dupont",
+    "prenom": "Adrien",
+    "date_naissance": "2004-02-14",
+    "sexe": "H",
+    "allergies": ["pollen"],
+    "maladies_chroniques": []
+  },
+  {
+    "nom": "Lopez",
+    "prenom": "Marie",
+    "date_naissance": "1988-05-12",
+    "sexe": "F",
+    "allergies": [],
+    "maladies_chroniques": ["asthme"]
+  }
+]

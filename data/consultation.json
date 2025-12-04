@@ -1,0 +1,37 @@
+
+  [{
+    "id_patient": "64f8b2f4c8e4f3b1a5e9d111",
+    "date": "2025-11-01T10:00:00Z",
+    "diagnostic": "Grippe",
+    "traitement": "Repos + Médicaments",
+    "notes": "Patient à surveiller"
+  },
+  {
+    "id_patient": "64f8b2f4c8e4f3b1a5e9d112",
+    "date": "2025-11-03T14:30:00Z",
+    "diagnostic": "Hypertension",
+    "traitement": "Médicaments",
+    "notes": ""
+  },
+  {
+    "id_patient": "64f8b2f4c8e4f3b1a5e9d113",
+    "date": "2025-11-05T09:15:00Z",
+    "diagnostic": "Migraine",
+    "traitement": "Analgésiques",
+    "notes": ""
+  },
+  {
+    "id_patient": "64f8b2f4c8e4f3b1a5e9d114",
+    "date": "2025-11-06T11:45:00Z",
+    "diagnostic": "Diabète",
+    "traitement": "Insuline",
+    "notes": "Surveillance glycémie"
+  },
+  {
+    "id_patient": "64f8b2f4c8e4f3b1a5e9d115",
+    "date": "2025-11-07T16:00:00Z",
+    "diagnostic": "Asthme",
+    "traitement": "Inhalateur",
+    "notes": ""
+  }
+]
